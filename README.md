@@ -350,7 +350,7 @@ Deploy to any static hosting platform:
 
 Suggestions and pull requests are welcomed! Feel free to open a discussion or an issue for a new feature request or bug.
 
-One of the best ways to contribute is to grab a [bug report or feature suggestion](https://github.com/manuelernestog/AMEGOFY/issues) marked `accepted` and dig in.
+One of the best ways to contribute is to grab a [bug report or feature suggestion](https://github.com/kareemxamged/myPortfolio-website/issues) marked `accepted` and dig in.
 
 Please be wary of working on issues *not* marked as `accepted` — just because someone has created an issue doesn't mean we'll accept a pull request for it.
 
@@ -358,17 +358,11 @@ Please be wary of working on issues *not* marked as `accepted` — just because 
 
 ## License
 
-AMEGOFY is licensed under the MIT license — see the [LICENSE](https://github.com/manuelernestog/AMEGOFY/blob/main/LICENSE) file for details.
+AMEGOFY is licensed under the MIT license — see the [LICENSE](https://github.com/kareemxamged/myPortfolio-website/blob/main/LICENSE) file for details.
 
 ---
 
-## Contributors
-
-<a href="https://github.com/manuelernestog/AMEGOFY/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=manuelernestog/AMEGOFY" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
+Made with Kareem Amged.
 
 ---
 ---
@@ -380,13 +374,13 @@ Made with [contrib.rocks](https://contrib.rocks).
 [![Astro](https://img.shields.io/badge/Astro-v4-BC52EE?logo=astro&logoColor=white)](https://astro.build)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![DaisyUI](https://img.shields.io/badge/DaisyUI-v4-5A0EF8?logo=daisyui&logoColor=white)](https://daisyui.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/manuelernestog/AMEGOFY/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kareemxamged/myPortfolio-website/blob/main/LICENSE)
 
 AMEGOFY هو قالب مجاني ومفتوح المصدر لإنشاء موقع محفظة أعمال شخصية مبني على **Astro v4** و**TailwindCSS**. أطلق موقعك الاحترافي في دقائق — مع مدونة، سيرة ذاتية، مشاريع، خدمات، متجر، وخلاصة RSS.
 
 ## العرض التجريبي المباشر
 
-▶ [kemooamegoo.great-site.net](https://kemooamegoo.great-site.net/)
+▶ [kemooamegoo.great-site.net](SOOOOOOON)
 
 ---
 
@@ -649,22 +643,16 @@ Sitemap: https://نطاقك.com/sitemap-index.xml
 
 نرحب بالاقتراحات وطلبات السحب! لا تتردد في فتح نقاش أو إبلاغ عن مشكلة أو طلب ميزة جديدة.
 
-ابحث عن [تقارير الأخطاء وطلبات الميزات](https://github.com/manuelernestog/AMEGOFY/issues) المُعلَّمة بـ `accepted` وابدأ العمل.
+ابحث عن [تقارير الأخطاء وطلبات الميزات](https://github.com/kareemxamged/myPortfolio-website/issues) المُعلَّمة بـ `accepted` وابدأ العمل.
 
 ---
 
 ## الرخصة
 
-يخضع AMEGOFY لرخصة MIT — راجع ملف [LICENSE](https://github.com/manuelernestog/AMEGOFY/blob/main/LICENSE) للتفاصيل.
+يخضع AMEGOFY لرخصة MIT — راجع ملف [LICENSE](https://github.com/kareemxamged/myPortfolio-website/blob/main/LICENSE) للتفاصيل.
 
 ---
 
-## المساهمون
-
-<a href="https://github.com/manuelernestog/AMEGOFY/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=manuelernestog/AMEGOFY" />
-</a>
-
-صُنع بواسطة [contrib.rocks](https://contrib.rocks).
+صُنع بواسطة Kareem Amged.
 
 </div>
